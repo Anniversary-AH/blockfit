@@ -32,7 +32,7 @@ const DisclaimerFooter = () => {
           
           <div className="text-center mt-4">
             <p className="text-xs text-gray-500">
-              © 2024 BlockFit. All rights reserved.
+              © 2025 Amber-Field. All rights reserved.
             </p>
           </div>
         </div>
