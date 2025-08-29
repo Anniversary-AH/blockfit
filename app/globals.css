@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --charcoal: #1E1F25;
+  --bone: #F7F7F5;
+  --eucalyptus: #3A7D66;
+  --terracotta: #C06C4C;
+}
+
+body {
+  background-color: var(--bone);
+  color: var(--charcoal);
+}
